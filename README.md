@@ -5,7 +5,7 @@ A modern, interactive, beginner-friendly Git & GitHub handbook built as a respon
 
 ## 🌐 Live Demo
 
-Coming Soon
+https://git-github-handbook.vercel.app/
 
 ## ✨ Features
 
